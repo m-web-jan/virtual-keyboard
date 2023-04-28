@@ -1,0 +1,598 @@
+[
+    {
+      "name": "Backquote",
+      "eng": "`",
+      "engShift": "~",
+      "rus": "ё",
+      "rusShift": "Ё",
+      "rusCap": "Ё",
+      "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Digit1",
+        "eng": "1",
+        "engShift": "!",
+        "rus": "1",
+        "rusShift": "!",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Digit2",
+        "eng": "2",
+        "engShift": "@",
+        "rus": "2",
+        "rusShift": "\"",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Digit3",
+        "eng": "3",
+        "engShift": "#",
+        "rus": "3",
+        "rusShift": "№",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Digit4",
+        "eng": "4",
+        "engShift": "$",
+        "rus": "4",
+        "rusShift": ";",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Digit5",
+        "eng": "5",
+        "engShift": "%",
+        "rus": "5",
+        "rusShift": "%",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Digit6",
+        "eng": "6",
+        "engShift": "^",
+        "rus": "6",
+        "rusShift": ":",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Digit7",
+        "eng": "7",
+        "engShift": "&",
+        "rus": "7",
+        "rusShift": "?",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Digit8",
+        "eng": "8",
+        "engShift": "*",
+        "rus": "8",
+        "rusShift": "*",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Digit9",
+        "eng": "9",
+        "engShift": "(",
+        "rus": "9",
+        "rusShift": "(",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Digit0",
+        "eng": "0",
+        "engShift": ")",
+        "rus": "0",
+        "rusShift": ")",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Minus",
+        "eng": "-",
+        "engShift": "_",
+        "rus": "-",
+        "rusShift": "_",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Equal",
+        "eng": "=",
+        "engShift": "+",
+        "rus": "=",
+        "rusShift": "+",
+        "shift": true,
+        "row": 1
+    },
+    {
+        "name": "Backspace",
+        "eng": "BackSpace",
+        "shift": false,
+        "row": 1
+    },
+    
+
+
+
+    
+    {
+        "name": "Tab",
+        "eng": "Tab",
+        "shift": false,
+        "row": 2
+    },
+    {
+        "name": "KeyQ",
+        "eng": "q",
+        "engShift": "Q",
+        "engCap": "Q",
+        "rus": "й",
+        "rusShift": "Й",
+        "rusCap": "Й",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "KeyW",
+        "eng": "w",
+        "engShift": "W",
+        "engCap": "W",
+        "rus": "ц",
+        "rusShift": "Ц",
+        "rusCap": "Ц",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "KeyE",
+        "eng": "e",
+        "engShift": "E",
+        "engCap": "E",
+        "rus": "у",
+        "rusShift": "У",
+        "rusCap": "У",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "KeyR",
+        "eng": "r",
+        "engShift": "R",
+        "engCap": "R",
+        "rus": "к",
+        "rusShift": "К",
+        "rusCap": "К",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "KeyT",
+        "eng": "t",
+        "engShift": "T",
+        "engCap": "T",
+        "rus": "е",
+        "rusShift": "Е",
+        "rusCap": "Е",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "KeyY",
+        "eng": "y",
+        "engShift": "Y",
+        "engCap": "Y",
+        "rus": "н",
+        "rusShift": "Н",
+        "rusCap": "Н",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "KeyU",
+        "eng": "u",
+        "engShift": "U",
+        "engCap": "U",
+        "rus": "г",
+        "rusShift": "Г",
+        "rusCap": "Г",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "KeyI",
+        "eng": "i",
+        "engShift": "I",
+        "engCap": "I",
+        "rus": "ш",
+        "rusShift": "Ш",
+        "rusCap": "Ш",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "KeyO",
+        "eng": "o",
+        "engShift": "O",
+        "engCap": "O",
+        "rus": "щ",
+        "rusShift": "Щ",
+        "rusCap": "Щ",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "KeyP",
+        "eng": "p",
+        "engShift": "P",
+        "engCap": "P",
+        "rus": "з",
+        "rusShift": "З",
+        "rusCap": "З",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "BracketLeft",
+        "eng": "[",
+        "engShift": "{",
+        "rus": "х",
+        "rusShift": "Х",
+        "rusCap": "Х",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "BracketRight",
+        "eng": "]",
+        "engShift": "}",
+        "rus": "ъ",
+        "rusShift": "Ъ",
+        "rusCap": "Ъ",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "Backslash",
+        "eng": "\\",
+        "engShift": "|",
+        "rus": "\\",
+        "rusShift": "/",
+        "shift": true,
+        "row": 2
+    },
+    {
+        "name": "Delete",
+        "eng": "Del",
+        "shift": false,
+        "row": 2
+    },
+
+
+    
+    {
+        "name": "CapsLock",
+        "eng": "CapsLock",
+        "shift": false,
+        "row": 3
+    },
+    {
+        "name": "KeyA",
+        "eng": "a",
+        "engShift": "A",
+        "engCap": "A",
+        "rus": "ф",
+        "rusShift": "Ф",
+        "rusCap": "Ф",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "KeyS",
+        "eng": "s",
+        "engShift": "S",
+        "engCap": "S",
+        "rus": "ы",
+        "rusShift": "Ы",
+        "rusCap": "Ы",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "KeyD",
+        "eng": "d",
+        "engShift": "D",
+        "engCap": "D",
+        "rus": "в",
+        "rusShift": "В",
+        "rusCap": "В",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "KeyF",
+        "eng": "f",
+        "engShift": "F",
+        "engCap": "F",
+        "rus": "а",
+        "rusShift": "А",
+        "rusCap": "А",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "KeyG",
+        "eng": "g",
+        "engShift": "G",
+        "engCap": "G",
+        "rus": "п",
+        "rusShift": "П",
+        "rusCap": "П",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "KeyH",
+        "eng": "h",
+        "engShift": "H",
+        "engCap": "H",
+        "rus": "р",
+        "rusShift": "Р",
+        "rusCap": "Р",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "KeyJ",
+        "eng": "j",
+        "engShift": "J",
+        "engCap": "J",
+        "rus": "о",
+        "rusShift": "О",
+        "rusCap": "О",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "KeyK",
+        "eng": "k",
+        "engShift": "K",
+        "engCap": "K",
+        "rus": "л",
+        "rusShift": "Л",
+        "rusCap": "Л",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "KeyL",
+        "eng": "l",
+        "engShift": "L",
+        "engCap": "L",
+        "rus": "д",
+        "rusShift": "Д",
+        "rusCap": "Д",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "Semicolon",
+        "eng": ";",
+        "engShift": ":",
+        "rus": "ж",
+        "rusShift": "Ж",
+        "rusCap": "Ж",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "Quote",
+        "eng": "'",
+        "engShift": "\"",
+        "rus": "э",
+        "rusShift": "Э",
+        "rusCap": "Э",
+        "shift": true,
+        "row": 3
+    },
+    {
+        "name": "Enter",
+        "eng": "Enter",
+        "shift": false,
+        "row": 3
+    },
+
+
+
+    {
+        "name": "ShiftLeft",
+        "eng": "Shift",
+        "shift": false,
+        "row": 4
+    },
+    {
+        "name": "KeyZ",
+        "eng": "z",
+        "engShift": "Z",
+        "engCap": "Z",
+        "rus": "я",
+        "rusShift": "Я",
+        "rusCap": "Я",
+        "shift": true,
+        "row": 4
+    },
+    {
+        "name": "KeyX",
+        "eng": "x",
+        "engShift": "X",
+        "engCap": "X",
+        "rus": "ч",
+        "rusShift": "Ч",
+        "rusCap": "Ч",
+        "shift": true,
+        "row": 4
+    },
+    {
+        "name": "KeyC",
+        "eng": "c",
+        "engShift": "C",
+        "engCap": "C",
+        "rus": "с",
+        "rusShift": "С",
+        "rusCap": "С",
+        "shift": true,
+        "row": 4
+    },
+    {
+        "name": "KeyV",
+        "eng": "v",
+        "engShift": "V",
+        "engCap": "V",
+        "rus": "м",
+        "rusShift": "М",
+        "rusCap": "М",
+        "shift": true,
+        "row": 4
+    },
+    {
+        "name": "KeyB",
+        "eng": "b",
+        "engShift": "B",
+        "engCap": "B",
+        "rus": "и",
+        "rusShift": "И",
+        "rusCap": "И",
+        "shift": true,
+        "row": 4
+    },
+    {
+        "name": "KeyN",
+        "eng": "n",
+        "engShift": "N",
+        "engCap": "N",
+        "rus": "т",
+        "rusShift": "Т",
+        "rusCap": "Т",
+        "shift": true,
+        "row": 4
+    },
+    {
+        "name": "KeyM",
+        "eng": "m",
+        "engShift": "M",
+        "engCap": "M",
+        "rus": "ь",
+        "rusShift": "Ь",
+        "rusCap": "Ь",
+        "shift": true,
+        "row": 4
+    },
+    {
+        "name": "Comma",
+        "eng": ",",
+        "engShift": "<",
+        "rus": "б",
+        "rusShift": "Б",
+        "rusCap": "Б",
+        "shift": true,
+        "row": 4
+    },
+    {
+        "name": "Period",
+        "eng": ".",
+        "engShift": ".",
+        "rus": "ю",
+        "rusShift": "Ю",
+        "rusCap": "Ю",
+        "shift": true,
+        "row": 4
+    },
+    {
+        "name": "Slash",
+        "eng": "/",
+        "engShift": "?",
+        "rus": ".",
+        "rusShift": ",",
+        "shift": true,
+        "row": 4
+    },
+    {
+        "name": "ArrowUp",
+        "eng": "▲",
+        "shift": false,
+        "row": 4
+    },
+    {
+        "name": "ShiftRight",
+        "eng": "Shift",
+        "shift": false,
+        "row": 4
+    },
+
+    {
+        "name": "ControlLeft",
+        "eng": "Ctrl",
+        "shift": false,
+        "row": 5
+    },
+    {
+        "name": "MetaLeft",
+        "eng": "Win",
+        "shift": false,
+        "row": 5
+    },
+    {
+        "name": "AltLeft",
+        "eng": "Alt",
+        "shift": false,
+        "row": 5
+    },
+    {
+        "name": "Space",
+        "eng": " ",
+        "shift": false,
+        "row": 5
+    },
+    {
+        "name": "AltRight",
+        "eng": "Alt",
+        "shift": false,
+        "row": 5
+    },
+    {
+        "name": "ArrowLeft",
+        "eng": "◄",
+        "shift": false,
+        "row": 5
+    },
+    {
+        "name": "ArrowDown",
+        "eng": "▼",
+        "shift": false,
+        "row": 5
+    },
+    {
+        "name": "ArrowRight",
+        "eng": "►",
+        "shift": false,
+        "row": 5
+    },
+    {
+        "name": "ControlRight",
+        "eng": "Ctrl",
+        "shift": false,
+        "row": 5
+    }
+]
